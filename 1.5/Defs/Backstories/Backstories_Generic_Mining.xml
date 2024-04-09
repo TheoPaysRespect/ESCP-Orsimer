@@ -5,7 +5,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_MiningA</defName>
 		<title>orichalcum miner</title>
 		<titleShort>miner</titleShort>
-		<baseDesc>[PAWN_nameDef] worked in the orichalcum mine controlled by [PAWN_possessive] stronghold. While raw orichalcum was surprisingly easy to excavate, the mines themselves seemed to often end up infested by various vermin, which is where [PAWN_nameDef]'s other skill came in handy.</baseDesc>
+		<description>[PAWN_nameDef] worked in the orichalcum mine controlled by [PAWN_possessive] stronghold. While raw orichalcum was surprisingly easy to excavate, the mines themselves seemed to often end up infested by various vermin, which is where [PAWN_nameDef]'s other skill came in handy.</description>
 		<bodyTypeGlobal>Hulk</bodyTypeGlobal>
 		<skillGains>
 			<Melee>3</Melee>

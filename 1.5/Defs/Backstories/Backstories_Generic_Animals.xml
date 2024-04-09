@@ -5,7 +5,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_AnimalsA</defName>
 		<title>welwa trainer</title>
 		<titleShort>trainer</titleShort>
-		<baseDesc>Somewhat skilled with animals, and secretly terrified of echatere, [PAWN_nameDef] decided to instead put [PAWN_possessive] skills to work training welwa. While comparatively safer to be around than echatere, [PAWN_nameDef] did nearly lose fingers a few times.</baseDesc>
+		<description>Somewhat skilled with animals, and secretly terrified of echatere, [PAWN_nameDef] decided to instead put [PAWN_possessive] skills to work training welwa. While comparatively safer to be around than echatere, [PAWN_nameDef] did nearly lose fingers a few times.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>
@@ -17,7 +17,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_AnimalsB</defName>
 		<title>echatere tender</title>
 		<titleShort>tender</titleShort>
-		<baseDesc>While [PAWN_nameDef] wasn't skilled enough to actually tame echatere, [PAWN_pronoun] did help tend the herds. Taking care of echatere was tough work, as echatere aren't very friendly, even 'tame' ones. [PAWN_nameDef] was sure [PAWN_pronoun] spent more time tending to wounds than actually taking care of the echatere.</baseDesc>
+		<description>While [PAWN_nameDef] wasn't skilled enough to actually tame echatere, [PAWN_pronoun] did help tend the herds. Taking care of echatere was tough work, as echatere aren't very friendly, even 'tame' ones. [PAWN_nameDef] was sure [PAWN_pronoun] spent more time tending to wounds than actually taking care of the echatere.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>
@@ -32,7 +32,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_AnimalsC</defName>
 		<title>echatere tamer</title>
 		<titleShort>tamer</titleShort>
-		<baseDesc>[PAWN_nameDef] was one of the few Orsimer brave enough to tame wild echatere. [PAWN_pronoun] was also smart enough to know that even a tame echatere was still wild.</baseDesc>
+		<description>[PAWN_nameDef] was one of the few Orsimer brave enough to tame wild echatere. [PAWN_pronoun] was also smart enough to know that even a tame echatere was still wild.</description>
 		<bodyTypeGlobal>Hulk</bodyTypeGlobal>
 		<skillGains>
 			<Animals>6</Animals>

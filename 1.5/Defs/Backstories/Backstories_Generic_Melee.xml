@@ -5,7 +5,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_MeleeA</defName>
 		<title>berserker</title>
 		<titleShort>berserker</titleShort>
-		<baseDesc>Skilled with what ever weapon [PAWN_pronoun] could get [PAWN_possessive] hands on, as long as it wasn't a bow, [PAWN_nameDef] was a fearsome sight on the battlefield. Though [PAWN_pronoun] did have a tendency to ignore any potentially life-threatening wounds acquired during battle.</baseDesc>
+		<description>Skilled with what ever weapon [PAWN_pronoun] could get [PAWN_possessive] hands on, as long as it wasn't a bow, [PAWN_nameDef] was a fearsome sight on the battlefield. Though [PAWN_pronoun] did have a tendency to ignore any potentially life-threatening wounds acquired during battle.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>
@@ -23,7 +23,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_MeleeB</defName>
 		<title>great warrior</title>
 		<titleShort>warrior</titleShort>
-		<baseDesc>One of the most skilled warriors in [PAWN_possessive] stronghold, [PAWN_nameDef] over time grew tired of dealing with foes that offered little threat. So [PAWN_pronoun] set out into the world in search of a legendary fight, or an honourable death.</baseDesc>
+		<description>One of the most skilled warriors in [PAWN_possessive] stronghold, [PAWN_nameDef] over time grew tired of dealing with foes that offered little threat. So [PAWN_pronoun] set out into the world in search of a legendary fight, or an honourable death.</description>
 		<bodyTypeGlobal>Hulk</bodyTypeGlobal>
 		<skillGains>
 			<Melee>12</Melee>

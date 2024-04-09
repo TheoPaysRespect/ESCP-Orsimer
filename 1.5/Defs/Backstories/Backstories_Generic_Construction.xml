@@ -5,7 +5,7 @@
 		<defName>ESCP_OrsimerBackstory_Adulthood_ConstructionA</defName>
 		<title>stronghold builder</title>
 		<titleShort>builder</titleShort>
-		<baseDesc>[PAWN_nameDef] helped [PAWN_possessive] tribe construct new strongholds whenever the tribe was forced to move. This happened rather often, so [PAWN_nameDef] became quite skilled at construction.</baseDesc>
+		<description>[PAWN_nameDef] helped [PAWN_possessive] tribe construct new strongholds whenever the tribe was forced to move. This happened rather often, so [PAWN_nameDef] became quite skilled at construction.</description>
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<skillGains>

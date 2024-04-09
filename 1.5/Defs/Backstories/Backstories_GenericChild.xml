@@ -6,7 +6,7 @@
 		<defName>ESCP_OrsimerBackstory_ChildhoodAnimalA</defName>
 		<title>cub loon chaser</title>
 		<titleShort>chaser</titleShort>
-		<baseDesc>[PAWN_nameDef] would spend hours each day chasing the local chub loons around the coast. [PAWN_nameDef] never got close to actually catching one, which is quite an accomplishment as chub loons aren't exactly fast on land.</baseDesc>
+		<description>[PAWN_nameDef] would spend hours each day chasing the local chub loons around the coast. [PAWN_nameDef] never got close to actually catching one, which is quite an accomplishment as chub loons aren't exactly fast on land.</description>
 		<skillGains>
 			<Animals>2</Animals>
 		</skillGains>
@@ -22,7 +22,7 @@
 		<defName>ESCP_OrsimerBackstory_ChildhoodAnimalB</defName>
 		<title>echatere herder</title>
 		<titleShort>herder</titleShort>
-		<baseDesc>[PAWN_nameDef] would always tell everyone how [PAWN_pronoun] helped to herd the tame echatere. In truth, [PAWN_nameDef] was bait, [PAWN_pronoun]. Would whistle, and then [PAWN_pronoun] would run.</baseDesc>
+		<description>[PAWN_nameDef] would always tell everyone how [PAWN_pronoun] helped to herd the tame echatere. In truth, [PAWN_nameDef] was bait, [PAWN_pronoun]. Would whistle, and then [PAWN_pronoun] would run.</description>
 		<skillGains>
 			<Animals>2</Animals>
 		</skillGains>
@@ -43,7 +43,7 @@
 		<defName>ESCP_OrsimerBackstory_ChildhoodMeleeA</defName>
 		<title>tiny warrior</title>
 		<titleShort>warrior</titleShort>
-		<baseDesc>[PAWN_nameDef] was practically born with a sword in [PAWN_possessive] hands. Every day since [PAWN_pronoun] would walk [PAWN_nameDef], was out in the fields, swinging away at anything that got too close. Luckily [PAWN_nameDef] was smart, and kept [PAWN_possessive] distance from the echatere herd.</baseDesc>
+		<description>[PAWN_nameDef] was practically born with a sword in [PAWN_possessive] hands. Every day since [PAWN_pronoun] would walk [PAWN_nameDef], was out in the fields, swinging away at anything that got too close. Luckily [PAWN_nameDef] was smart, and kept [PAWN_possessive] distance from the echatere herd.</description>
 		<skillGains>
 			<Melee>3</Melee>
 		</skillGains>
