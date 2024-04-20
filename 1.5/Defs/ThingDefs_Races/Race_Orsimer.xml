@@ -194,20 +194,30 @@
 						<li>
 							<path>Things/Pawn/Humanlike/ESCP_Orsimer/Tusk/Tusk</path>
 							<colorChannel>tusk</colorChannel>
-							<bodyPart>Jaw</bodyPart>
-							<drawnInBed>true</drawnInBed>
 							<inFrontOfBody>true</inFrontOfBody>
 							<alignWithHead>true</alignWithHead>
 							<scaleWithPawnDrawsize>true</scaleWithPawnDrawsize>
-							<drawnDesiccated>true</drawnDesiccated>
-							<hiddenUnderApparelFor>
-								<li>FullHead</li>
-								<li>Teeth</li>
-								<li>Mouth</li>
-							</hiddenUnderApparelFor>
-							<hiddenUnderApparelTag>
-								<li>ESCP_CoverOrsimerTusks</li>
-							</hiddenUnderApparelTag>
+							<conditions>
+								<BodyPart>
+									<bodyPart>Jaw</bodyPart>
+								</BodyPart>
+								<RotStage>Fresh,Rotting,Dessicated</RotStage>
+								<Apparel>
+									<hiddenUnderApparelFor>
+										<li>FullHead</li>
+										<li>Teeth</li>
+										<li>Mouth</li>
+									</hiddenUnderApparelFor>
+									<hiddenUnderApparelTag>
+										<li>ESCP_CoverOrsimerTusks</li>
+									</hiddenUnderApparelTag>
+								</Apparel>
+								<Posture>
+									<drawnStanding>true</drawnStanding>
+									<drawnLaying>true</drawnLaying>
+									<drawnInBed>true</drawnInBed>
+								</Posture>
+							</conditions>
 							<offsets>
 								<east>
 									<headTypes>
@@ -231,22 +241,31 @@
 						<!-- =====[Horns, male only]===== -->
 						<li>
 							<path>Things/Pawn/Humanlike/ESCP_Orsimer/Horn/Horn</path>
-							<drawForMale>true</drawForMale>
-							<drawForFemale>false</drawForFemale>
 							<colorChannel>tusk</colorChannel>
-							<bodyPart>Head</bodyPart>
-							<drawnInBed>true</drawnInBed>
 							<inFrontOfBody>true</inFrontOfBody>
 							<alignWithHead>true</alignWithHead>
 							<scaleWithPawnDrawsize>true</scaleWithPawnDrawsize>
-							<drawnDesiccated>true</drawnDesiccated>
-							<hiddenUnderApparelFor>
-								<li>FullHead</li>
-								<li>UpperHead</li>
-							</hiddenUnderApparelFor>
-							<hiddenUnderApparelTag>
-								<li>ESCP_CoverOrsimerHorns</li>
-							</hiddenUnderApparelTag>
+							<conditions>
+								<BodyPart>
+									<bodyPart>Head</bodyPart>
+								</BodyPart>
+								<RotStage>Fresh,Rotting,Dessicated</RotStage>
+								<Gender>Male</Gender>
+								<Apparel>
+									<hiddenUnderApparelFor>
+										<li>FullHead</li>
+										<li>UpperHead</li>
+									</hiddenUnderApparelFor>
+									<hiddenUnderApparelTag>
+										<li>ESCP_CoverOrsimerHorns</li>
+									</hiddenUnderApparelTag>
+								</Apparel>
+								<Posture>
+									<drawnStanding>true</drawnStanding>
+									<drawnLaying>true</drawnLaying>
+									<drawnInBed>true</drawnInBed>
+								</Posture>
+							</conditions>
 							<offsets>
 								<south>
 									<layerOffset>-0.273</layerOffset>
