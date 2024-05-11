@@ -53,7 +53,7 @@
 					<ESCP_Orsimer_Tribal_WelwaMaster>5</ESCP_Orsimer_Tribal_WelwaMaster>
 					<ESCP_Orsimer_Tribal_HeavyArcher>10</ESCP_Orsimer_Tribal_HeavyArcher>
 					<ESCP_Orsimer_Tribal_Berserker>5</ESCP_Orsimer_Tribal_Berserker>
-					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="SirMashedPotato.ESCP.Trolls">2</ESCP_Orsimer_Tribal_TrollMaster>
+					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="ESCP.ESCP.Trolls">2</ESCP_Orsimer_Tribal_TrollMaster>
 					<ESCP_Orsimer_Tribal_ChiefRanged>3</ESCP_Orsimer_Tribal_ChiefRanged>
 					<ESCP_Orsimer_Tribal_ChiefMelee>1.5</ESCP_Orsimer_Tribal_ChiefMelee>
 				</options>
@@ -78,7 +78,7 @@
 					<ESCP_Orsimer_Tribal_Penitent>10</ESCP_Orsimer_Tribal_Penitent>
 					<ESCP_Orsimer_Tribal_Warrior>10</ESCP_Orsimer_Tribal_Warrior>
 					<ESCP_Orsimer_Tribal_Berserker>10</ESCP_Orsimer_Tribal_Berserker>
-					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="SirMashedPotato.ESCP.Trolls">5</ESCP_Orsimer_Tribal_TrollMaster>
+					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="ESCP.ESCP.Trolls">5</ESCP_Orsimer_Tribal_TrollMaster>
 					<ESCP_Orsimer_Tribal_ChiefMelee>5</ESCP_Orsimer_Tribal_ChiefMelee>
 				</options>
 			</li>
@@ -95,7 +95,7 @@
 					<ESCP_Orsimer_Tribal_WelwaMaster>5</ESCP_Orsimer_Tribal_WelwaMaster>
 					<ESCP_Orsimer_Tribal_HeavyArcher>10</ESCP_Orsimer_Tribal_HeavyArcher>
 					<ESCP_Orsimer_Tribal_Berserker>5</ESCP_Orsimer_Tribal_Berserker>
-					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="SirMashedPotato.ESCP.Trolls">2</ESCP_Orsimer_Tribal_TrollMaster>
+					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="ESCP.ESCP.Trolls">2</ESCP_Orsimer_Tribal_TrollMaster>
 					<ESCP_Orsimer_Tribal_ChiefRanged>3</ESCP_Orsimer_Tribal_ChiefRanged>
 					<ESCP_Orsimer_Tribal_ChiefMelee>1.5</ESCP_Orsimer_Tribal_ChiefMelee>
 				</options>
@@ -121,7 +121,6 @@
 				</traders>
 				<carriers>
 					<ESCP_Echatere>20</ESCP_Echatere>
-					<!--<Mashed_Ashlands_Guar MayRequire="sirmashedpotato.ashlands">5</Mashed_Ashlands_Guar>-->
 					<Muffalo>6</Muffalo>
 					<Dromedary>5</Dromedary>
 					<Alpaca>2.5</Alpaca>
@@ -145,7 +144,7 @@
 					<ESCP_Orsimer_Tribal_WelwaMaster>5</ESCP_Orsimer_Tribal_WelwaMaster>
 					<ESCP_Orsimer_Tribal_HeavyArcher>10</ESCP_Orsimer_Tribal_HeavyArcher>
 					<ESCP_Orsimer_Tribal_Berserker>7</ESCP_Orsimer_Tribal_Berserker>
-					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="SirMashedPotato.ESCP.Trolls">3</ESCP_Orsimer_Tribal_TrollMaster>
+					<ESCP_Orsimer_Tribal_TrollMaster MayRequire="ESCP.ESCP.Trolls">3</ESCP_Orsimer_Tribal_TrollMaster>
 					<ESCP_Orsimer_Tribal_ChiefRanged>10</ESCP_Orsimer_Tribal_ChiefRanged>
 				</options>
 			</li>

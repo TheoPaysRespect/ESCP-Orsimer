@@ -228,7 +228,7 @@
 		<initialResistanceRange>13~20</initialResistanceRange>
 	</PawnKindDef>
 	<!-- ==========[ESCP_Orsimer_Tribal_TrollMaster]========== -->
-	<PawnKindDef ParentName="ESCP_Orsimer_TribalBerserkerBase" MayRequire="SirMashedPotato.ESCP.Trolls">
+	<PawnKindDef ParentName="ESCP_Orsimer_TribalBerserkerBase" MayRequire="ESCP.ESCP.Trolls">
 		<defName>ESCP_Orsimer_Tribal_TrollMaster</defName>
 		<label>troll master</label>
 		<combatPower>95</combatPower>
