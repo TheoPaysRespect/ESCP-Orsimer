@@ -12,8 +12,8 @@
 						<li>ESCP_WoolEchatere</li>
 						<li>Leather_Wolf</li>
 						<li>Leather_Bear</li>
-						<li MayRequire="ESCP.ESCP.Trolls">ESCP_Leather_LightTroll</li>
-						<li MayRequire="ESCP.ESCP.Trolls">ESCP_Leather_HeavyTroll</li>
+						<li MayRequire="ESCP.Trolls">ESCP_Leather_LightTroll</li>
+						<li MayRequire="ESCP.Trolls">ESCP_Leather_HeavyTroll</li>
 					</thingDefs>
 				</filter>
 			</fixedParams>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ESCP - Orsimer</name>
-	<packageId>ESCP.ESCP.Orsimer</packageId>
+	<packageId>ESCP.Orsimer</packageId>
 	<author>ESCP</author>
 	<modVersion>1.1.0</modVersion>
 	<supportedVersions>
@@ -22,14 +22,14 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId>ESCP.ESCP.RaceTools</packageId>
+			<packageId>ESCP.RaceTools</packageId>
 			<displayName>ESCP - Race Tools</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/3244642507</steamWorkshopUrl>
 			<downloadUrl>https://github.com/TheoPaysRespect/ESCP-Race_Tools</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>ESCP.ESCP.RaceTools</li>
-		<li>ESCP.ESCP.IndustrialFactionsDummy</li>
+		<li>ESCP.RaceTools</li>
+		<li>ESCP.IndustrialFactionsDummy</li>
 	</loadAfter>
 </ModMetaData>
