@@ -74,18 +74,20 @@
 			<li Class="StockGenerator_BuyTradeTag">
 				<tag>Drugs</tag>
 			</li>
+			<!--
 			<li Class="StockGenerator_BuyTradeTag" MayRequire="Sirmashedpotato.ashlands">
 				<tag>Mashed_Ashlands_AshlandsMeal</tag>
-			</li>
+			</li>-->
 			<li Class="StockGenerator_BuyTradeTag" MayRequire="dankpyon.medieval.overhaul">
 				<tag>ESCP_MedievalOverhaul_Cheeses</tag>
 			</li>
 			<li Class="StockGenerator_BuyTradeTag">
 				<tag>ESCP_Organics</tag>
 			</li>
+			<!--
 			<li Class="StockGenerator_BuyTradeTag">
 				<tag>ESCP_MealSellable</tag>
-			</li>
+			</li>-->
 		</stockGenerators>
 	</TraderKindDef>
 </Defs>

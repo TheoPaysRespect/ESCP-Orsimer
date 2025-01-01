@@ -28,7 +28,7 @@
 			</tradeTags>
 		</value>
 	</Operation>
-
+ <!--
 	<Operation Class="PatchOperationAdd">
 		<xpath>/Defs/ThingDef[@Name = "MealBaseIngredientless"]</xpath>
 		<value>
@@ -41,6 +41,7 @@
 	<Operation Class="PatchOperationRemove">
 		<xpath>/Defs/ThingDef[@Name = "MealCookedIngredientless"]/tradeability</xpath>
 	</Operation>
+	-->
 
 	<!--ingredients-->
 
