@@ -67,6 +67,12 @@
 				<thingDefCountRange>1~5</thingDefCountRange>
 				<countRange>1~20</countRange>
 			</li>
+
+			<li Class="StockGenerator_Category">
+				<categoryDef>MeatRaw</categoryDef>
+				<thingDefCountRange>3~6</thingDefCountRange>
+				<totalPriceRange>100~300</totalPriceRange>
+			</li>
 			<!-- Exotic -->
 			<!-- Slaves -->
 			<!-- Animals -->
