@@ -70,8 +70,8 @@
 
 			<li Class="StockGenerator_Category">
 				<categoryDef>MeatRaw</categoryDef>
-				<thingDefCountRange>3~6</thingDefCountRange>
-				<totalPriceRange>100~300</totalPriceRange>
+				<thingDefCountRange>0</thingDefCountRange>
+				<totalPriceRange>0</totalPriceRange>
 			</li>
 			<!-- Exotic -->
 			<!-- Slaves -->
