@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Medieval Overhaul</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[@Name = "DankPyon_RationsBase"]</xpath>
+					<value>
+						<tradeTags>
+							<li>ESCP_MedievalOverhaul_Rations</li>
+						</tradeTags>
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[@Name = "DankPyon_CheeseBase"]</xpath>
+					<value>
+						<tradeTags>
+							<li>ESCP_MedievalOverhaul_Cheeses</li>
+						</tradeTags>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

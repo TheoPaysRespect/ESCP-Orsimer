@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- meals -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[@Name = "MealCooked"]</xpath>
+		<value>
+			<tradeTags>
+				<li>ESCP_MealCooked</li>
+			</tradeTags>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[@Name = "MealFineBase"]</xpath>
+		<value>
+			<tradeTags>
+				<li>ESCP_MealFine</li>
+			</tradeTags>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[@Name = "MealLavishBase"]</xpath>
+		<value>
+			<tradeTags>
+				<li>ESCP_MealLavish</li>
+			</tradeTags>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[@Name = "MealBaseIngredientless"]</xpath>
+		<value>
+			<tradeTags>
+				<li>ESCP_MealSellable</li>
+			</tradeTags>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[@Name = "MealCookedIngredientless"]/tradeability</xpath>
+	</Operation>
+
+	<!--ingredients-->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[@Name = "OrganicProductBase"]</xpath>
+		<value>
+			<tradeTags>
+				<li>ESCP_Organics</li>
+			</tradeTags>
+		</value>
+	</Operation>
+
+
+
+
+
+
+</Patch>

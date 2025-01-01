@@ -39,6 +39,9 @@
 			<li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Strong_Subordinate</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Soft_Subordinate</li>
 		</disallowedPrecepts>
+		<caravanTraderKinds>
+			<li>ESCP_OrsimerCaravan_Gourmet</li>
+		</caravanTraderKinds>
 		<raidLootMaker>ESCP_OrsimerRaidLootMaker</raidLootMaker>
 		<pawnGroupMakers>
 			<li>
